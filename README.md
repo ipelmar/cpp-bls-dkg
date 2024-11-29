@@ -1,5 +1,5 @@
 # BLS Distributed Key Generation
-bls distributed key generation in c++ using herumi/bls
+bls distributed key generation in c++ using [herumi/bls](https://github.com/herumi/bls)
 
 - based on [dfinity/dkg](https://github.com/dfinity-side-projects/dkg)
 
